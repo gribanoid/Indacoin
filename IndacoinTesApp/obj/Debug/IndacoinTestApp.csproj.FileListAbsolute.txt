@@ -1,0 +1,7 @@
+C:\Users\grish\source\repos\IndacoinTesApp\IndacoinTesApp\bin\Debug\IndacoinTesApp.exe.config
+C:\Users\grish\source\repos\IndacoinTesApp\IndacoinTesApp\bin\Debug\IndacoinTesApp.exe
+C:\Users\grish\source\repos\IndacoinTesApp\IndacoinTesApp\bin\Debug\IndacoinTesApp.pdb
+C:\Users\grish\source\repos\IndacoinTesApp\IndacoinTesApp\obj\Debug\IndacoinTestApp.csproj.AssemblyReference.cache
+C:\Users\grish\source\repos\IndacoinTesApp\IndacoinTesApp\obj\Debug\IndacoinTestApp.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\IndacoinTesApp\IndacoinTesApp\obj\Debug\IndacoinTesApp.exe
+C:\Users\grish\source\repos\IndacoinTesApp\IndacoinTesApp\obj\Debug\IndacoinTesApp.pdb
